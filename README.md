@@ -1,1 +1,1 @@
-# brugmans.besWebdeveloper-seraing-portfolio
+# brugmans.besWebdeveloper-seraing.be/portfolio
